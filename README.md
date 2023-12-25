@@ -1,4 +1,4 @@
-# React Redux Product Quantity Selector App
+## React Redux Product Quantity Selector App
 
 
 This app has card that calculates the item price by the quantity. if the quantity is increased the total price will be incresed according to the original price.
